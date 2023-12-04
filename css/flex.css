@@ -28,12 +28,6 @@ a:hover {
     font-weight: bold;
     cursor: ;
 }
-.borda{
-    border: 1px solid red;
-}
-.segundo{
-
-}
 li{
     display: inline-block;
     width: 20%;
@@ -43,8 +37,4 @@ li{
 }
 ul{
     text-align: center;
-}
-.foto{
-    height: 180px;
-    width: 180px;
 }
