@@ -36,11 +36,10 @@ a:hover {
 }
 li{
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 20%;
+    height: 220px;
     background: white;
     text-align: center;
-    margin: auto;
 }
 ul{
     text-align: center;
